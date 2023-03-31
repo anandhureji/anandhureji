@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandhureji
 - 👀 I’m interested in Developing Apps
-- 🌱 I’m currently learning React Js
+- 🌱 I’m Spring Boot React Js Developer
 - 💞️ I’m looking to collaborate on Application Development
 - 📫 To Reach out to me contact on my mail id : anandhureji33@gmail.com ,mob : +91 9544233382 
 
